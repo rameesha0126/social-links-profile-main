@@ -44,7 +44,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [qr-code-component](https://github.com/rameesha0126/blog-preview-card-component)
+- Solution URL: [qr-code-component](https://github.com/rameesha0126/social-links-profile-main)
 - Live Site URL: [github.io](https://github.com/rameesha0126/rameesha0126.github.io/tree/master)
 
 ## My process
